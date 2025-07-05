@@ -1,0 +1,1 @@
+# Optional text file to store data for player customizations
