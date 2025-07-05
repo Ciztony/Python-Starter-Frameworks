@@ -8,3 +8,5 @@ The Terminal framework is packaged with a base terminal application class.
 
 Provides a basic architecture for new Python developers wanting to develop their first application.
 
+_Note to new devs: Please delete **ALL** .gitkeep files in the directories as they are **PLACEHOLDER FILES** to make them appear on GitHub as you can see_
+
