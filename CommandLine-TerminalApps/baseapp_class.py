@@ -9,9 +9,8 @@ class App:
     def check_for_end_command(self,prompt):
         if prompt.lower().replace(" ","") == "end":
             print("Ended Session.")
-            return False
-        
-        return True
+            return True
+        return False
     
 
     def run(self):
